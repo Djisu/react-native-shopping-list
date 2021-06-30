@@ -1,4 +1,1 @@
-"# react-native-shoppinglist" 
-# shoppinglist-react-native
-# shoppinglist-react-native
-# react-native-shopping-list
+This ia a react native app. It uses hooks, StyleSheet, Text, View, FlatList, Alert. It also has a random number generator used to get random ids for records. I hope to add a backend API to it using Node.js and firebase.
